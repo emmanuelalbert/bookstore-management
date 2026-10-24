@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "price": 399,
+      "category": "Fiction",
+      "description": "A story of wealth, love and the American Dream in the Jazz Age.",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/9780743273565-L.jpg"
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "price": 450,
+      "category": "Classic",
+      "description": "A young girl watches her father defend a man in a racially divided town.",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/9780061120084-L.jpg"
+    },
+    {
+      "id": "3",
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 350,
+      "category": "Dystopian",
+      "description": "A chilling vision of a future ruled by constant surveillance.",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg"
+    },
+    {
+      "id": "5",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "price": 499,
+      "category": "Fantasy",
+      "description": "Bilbo Baggins is swept into an epic quest to reclaim a dragon's treasure.",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/9780547928227-L.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 550,
+      "category": "Self-Help",
+      "description": "Small, consistent changes that lead to remarkable results.",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "price": 299,
+      "category": "Romance",
+      "description": "Elizabeth Bennet navigates manners, marriage and misjudgments.",
+      "image": "https://covers.openlibrary.org/b/isbn/9780141439518-L.jpg",
+      "available": true,
+      "id": "sXpb4ck"
+    }
+  ]
+}
