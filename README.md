@@ -125,14 +125,6 @@ export default SERVER_URL;
 - Replace JSON Server with Node/Express + MongoDB or PostgreSQL
 - Deploy frontend (Vercel/Netlify) and backend (Render/Railway)
 
-## 📸 Screenshots
-
-_Add screenshots of the home page, add-book form, and edit view here._
-
-```md
-![Home page](./screenshots/home.png)
-```
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
